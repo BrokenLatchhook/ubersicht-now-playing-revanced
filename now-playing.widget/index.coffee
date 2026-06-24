@@ -77,7 +77,7 @@ else
     text-overflow: ellipsis
     float: left
     width: 185px
-
+// You can set width to 0px to hide the year because Spotify just has it set to NA which could be annoying
 .song-year
     font-weight: bold
     text-transform: uppercase
